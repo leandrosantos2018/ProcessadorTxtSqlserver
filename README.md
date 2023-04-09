@@ -4,7 +4,7 @@ Monitoramento de pasta e processamento de arquivo txt para banco de dados sql se
 Aplicação Console para Processamento de Arquivos de Texto
 Este repositório contém uma aplicação console desenvolvida em C# com o intuito de processar dados de arquivos texto e inseri-los em um banco de dados SQL Server. A aplicação segue um padrão de layout de uma tabela específica, descrito abaixo.
 
-tabela usado para desenvolvimento foi a tabela de produtos.
+Tabela usado para desenvolvimento foi a tabela de produtos.
 
 Exemplo:
 Layout da Tabela
