@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Runtime.Serialization;
 
 
-string connectionString = "Server=192.168.0.100\\sqlexpress02;Database=AluraCurso;User Id=su;Password=230917;";
+string connectionString = "Server=192.168.0.100\\sqlexpress02;Database=AluraCurso;User Id=su;Password=;";
 
 // Defina a pasta a ser monitorada
 string pastaMonitorada = @"C:\temp\monitorada";
